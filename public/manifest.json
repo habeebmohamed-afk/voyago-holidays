@@ -1,0 +1,21 @@
+{
+  "name": "Voyago Holidays — Travel With Your Tribe",
+  "short_name": "Voyago Holidays",
+  "description": "Curated domestic & international holidays matched by mindset cohorts, backed by our Live Booking Heat Map.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8F7F4",
+  "theme_color": "#132352",
+  "icons": [
+    {
+      "src": "/assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
